@@ -1,9 +1,11 @@
 # kocfinans-creditapp
 
-### Download Project
+## Download Project
 `git clone https://github.com/aykutyrdm/kocfinans-creditapp.git`
 
-### Change Directory
+Alt-Backend Compile
+------
+### Go Project Directory and Change Directory
 `cd .\credit-backend\`
 
 ### Install Jar Executable with Dependencies
@@ -12,7 +14,9 @@
 ### Build and Run Backend
 docker-compose up
 
-### In a New Termial Go Project Directory and Change Directory
+Alt-Frontend Compile
+------
+### Go Project Directory and Change Directory
 `cd .\react-frontend-app\`
 
 ### Install Dependencies
