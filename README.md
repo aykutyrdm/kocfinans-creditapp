@@ -3,7 +3,7 @@
 ## Download Project
 `git clone https://github.com/aykutyrdm/kocfinans-creditapp.git`
 
-Alt-Backend Compile
+Backend Compile
 ------
 ### Go Project Directory and Change Directory
 `cd .\credit-backend\`
@@ -14,7 +14,7 @@ Alt-Backend Compile
 ### Build and Run Backend
 docker-compose up
 
-Alt-Frontend Compile
+Frontend Compile
 ------
 ### Go Project Directory and Change Directory
 `cd .\react-frontend-app\`
