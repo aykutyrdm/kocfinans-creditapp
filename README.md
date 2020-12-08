@@ -5,7 +5,11 @@
 
 Backend Compile
 ------
-### Go Project Directory and Change Directory
+
+### Go Project Directory and 
+`cd .\kocfinans-creditapp\`
+
+### Change Directory
 `cd .\credit-backend\`
 
 ### Build and Run Backend
