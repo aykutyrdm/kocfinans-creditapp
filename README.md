@@ -8,9 +8,6 @@ Backend Compile
 ### Go Project Directory and Change Directory
 `cd .\credit-backend\`
 
-### Install Jar Executable with Dependencies
-`mvn clean install -DskipTests=true`
-
 ### Build and Run Backend
 docker-compose up
 
