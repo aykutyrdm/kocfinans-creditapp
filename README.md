@@ -13,7 +13,7 @@ Backend Compile
 `cd .\credit-backend\`
 
 ### Build and Run Backend
-docker-compose up
+`docker-compose up`
 
 Frontend Compile
 ------
